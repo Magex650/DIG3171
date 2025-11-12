@@ -5,18 +5,24 @@ title: Research Project
 
 # My Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/11/12/00/20251112003016-ZDEL1VE5.json
 
 # Abstract
 
-Here is my abstract. 
-
+Anime is not just entertainment; it’s a global movement that shapes people’s identities
+and connects fans around the world. For this project I used an AI chatbot to talk make it look like
+anime fans and learn how anime affects their lives, communities, and understanding of Japanese
+culture. Research shows that fans actively create and share content instead of just watching it
+(McCarthy). Anime can inspire people to learn Japanese language and culture while building
+connections across countries (Annett 174; “Croatian Anime and Manga Fans” 35). It spreads
+through media networks and online platforms, showing how culture travels internationally
+(Kovacic; Hernandez-Perez). Using an AI chatbot helped show how fans worldwide take part in
+this creative and social culture, showing how media can bring people together and influence
+identity.
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
+
 
 <style>
   .works-cited {
@@ -27,9 +33,67 @@ Here is my abstract.
 </style>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+Annett, Sandra. “Imagining Transcultural Fandom: Animation and Global Media Communities.”
+The Journal of Transcultural Studies, vol. 2, no. 2, 2011, pp. 164-188. heiup.uni-
+heidelberg.de/journals/transcultural/article/view/9060.
 </p>
 
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  McCarthy, Helen. “Transgenerationality Impacting Transnationality: Intersectional Possibilities
+in Anime.” The Journal of Anime and Manga Studies, vol. 6, 2024, article 2122.
+iopn.library.illinois.edu/journals/jams/article/view/2122.
 </p>
+
+<p class="works-cited">
+Kovacic, Mateja. “Hong Kong’s Anime: A Cultural History of Anime in Hong Kong’s Last
+Decade.” The Journal of Anime and Manga Studies, vol. 5, 2023, article 1460.
+iopn.library.illinois.edu/journals/jams/article/view/1460.
+</p>
+
+<p class="works-cited">
+Hernandez-Perez, Manuel, editor. Japanese Media Cultures in Japan and Abroad: Transnational
+Consumption of Manga, Anime, and Media-Mixes. MDPI Open Access, 2019.
+www.mdpi.com/bookfiles/book/1386/Japanese_Media_Cultures_in_Japan_and_Abroad_
+Transnational_Consumption_of_Manga_Anime_and_MediaMixes.pdf.
+</p>
+
+<p class="works-cited">
+Ito, Mizuko, Daisuke Okabe, and Izumi Tsuji, editors. “Fandom Unbound: Otaku Culture in a
+Connected World.” Yale University Press, 2012.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
